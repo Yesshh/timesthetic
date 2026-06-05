@@ -27,52 +27,8 @@ It combines minimalism, glassmorphism, motion design, and real-time updates to c
 * Tailwind CSS
 * Framer Motion
 
----
 
-## 📸 Preview
 
-```bash
-09:41
-
-Friday, June 5
-2026
-```
-
----
-
-## 🚀 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/timesthetic.git
-```
-
-Move into the project directory:
-
-```bash
-cd timesthetic
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Run the development server:
-
-```bash
-npm run dev
-```
-
-Open:
-
-```bash
-http://localhost:3000
-```
-
----
 
 ## 📂 Project Structure
 
