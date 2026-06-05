@@ -1,36 +1,141 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# TIMESTHETIC
 
-## Getting Started
+> Time, redesigned.
 
-First, run the development server:
+TIMESTHETIC is a futuristic ambient clock and calendar web experience built with modern web technologies.
+It combines minimalism, glassmorphism, motion design, and real-time updates to create a cinematic perception of time.
+
+---
+
+## ✨ Features
+
+* Live digital clock
+* Real-time date and year display
+* Glassmorphism UI
+* Animated ambient background
+* Responsive modern design
+* Smooth animations with Framer Motion
+* Minimal next-generation aesthetic
+
+---
+
+## 🛠️ Tech Stack
+
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* Framer Motion
+
+---
+
+## 📸 Preview
+
+```bash
+09:41
+
+Friday, June 5
+2026
+```
+
+---
+
+## 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/timesthetic.git
+```
+
+Move into the project directory:
+
+```bash
+cd timesthetic
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📂 Project Structure
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+src/
+├── app/
+│   ├── globals.css
+│   ├── layout.tsx
+│   └── page.tsx
+│
+├── components/
+│   ├── Background.tsx
+│   └── Clock.tsx
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🎨 Design Philosophy
 
-## Deploy on Vercel
+TIMESTHETIC focuses on:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+* whitespace
+* cinematic motion
+* futuristic minimalism
+* ambient UI
+* elegant typography
+* immersive visual experience
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The goal is not productivity — but aesthetic perception of time.
+
+---
+
+## 🔮 Planned Features
+
+* Dynamic themes
+* OLED mode
+* Particle effects
+* Ambient soundscapes
+* Weather integration
+* Fullscreen cinematic mode
+* 3D backgrounds
+* Interactive cursor glow
+
+---
+
+## 🌐 Deployment
+
+This project is optimized for deployment with Vercel.
+
+Deploy instantly:
+
+```bash
+npm run build
+```
+
+---
+
+## 📜 License
+
+MIT License
+
+---
+
+## 👨‍💻 Author
+
+Built by Yesh.
